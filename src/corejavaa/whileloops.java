@@ -36,7 +36,7 @@ public class whileloops {
 				System.out.print("\t");
 				k++;				
 			}
-			System.out.println("");
+			System.out.println("hi");
 		}
 		
 	
